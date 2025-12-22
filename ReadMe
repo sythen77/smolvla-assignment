@@ -1,0 +1,25 @@
+# SmolVLA Project
+
+This repository contains the report and reproduction materials for
+SmolVLA fine-tuning experiments.
+
+## Dataset
+https://huggingface.co/datasets/Sythen/svla_so100_pickplace_copy
+
+## Models
+- Baseline: https://huggingface.co/Sythen/my_smolvla_training_fm
+- L1: https://huggingface.co/Sythen/my_smolvla_training_l1
+- Frozen: https://huggingface.co/Sythen/my_smolvla_training_frozen
+
+## Contents
+- *.ipynb — Google Colab notebook
+- *.pdf — Final report
+- results inside pdf
+- src/ — Training commands
+
+
+note: sorry for sending the task not in the period it my first time to work in github and it take me so long to know alot of things like 
+the huugingface how to upload the dataset the github how it self to upload), and th etask to undestand how to do it and unfortunly i didnt make
+all the steps and i think i did alot of things wrong but that how i undertood the task it depend son my point of view at the end i will be very 
+graetfull even if my answers not good to leave me note so i can be better after that iam not perfect even how i solved it and how i think in such tasks like
+this it will be very good if one of your team can in anyways explain to me after that so i can know where iam wrong and thanks for you

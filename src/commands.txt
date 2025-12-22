@@ -1,0 +1,8 @@
+Baseline experiment:
+lerobot-train with default SmolVLA configuration (flow-matching loss).
+
+L1 regression experiment:
+lerobot-train using modified training config with L1 regression loss.
+
+Frozen vision encoder experiment:
+lerobot-train with vision encoder frozen during fine-tuning.

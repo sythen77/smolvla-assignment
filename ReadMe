@@ -21,3 +21,8 @@ https://huggingface.co/datasets/Sythen/svla_so100_pickplace_copy
 note: I’m sorry for submitting the task after the deadline — this was my first time working with GitHub and completing this type of assignment. It took me a long time to learn many things, such as how to use Hugging Face, how to upload datasets, and how to properly work with GitHub itself.
 I also needed time to understand the task, and unfortunately I wasn’t able to complete all the required steps. I believe I made several mistakes, and my solution reflects my current understanding of the task from my own point of view.
 I would be very grateful if you could leave me some feedback, even if my answers are not perfect. Any notes or explanations would really help me improve and understand where I went wrong.
+
+another note: I wrote the code in Google Colab and then downloaded it.
+trial1 contains the final and complete solution.
+trial2 was only for trying things out and getting started.
+You can just check trial1.
